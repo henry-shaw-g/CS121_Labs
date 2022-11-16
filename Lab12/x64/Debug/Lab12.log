@@ -1,0 +1,3 @@
+﻿  RecursiveStuff.c
+C:\Users\henry\Desktop\Projects\C\CPTS_121\Lab12\RecursiveStuff.c(68,11): warning C4098: 'reverse_string_recursive': 'void' function returning a value
+  Lab12.vcxproj -> C:\Users\henry\Desktop\Projects\C\CPTS_121\x64\Debug\Lab12.exe
