@@ -1,5 +1,0 @@
-﻿  BonusCalculator.c
-  main.c
-  Generating Code...
-C:\Users\henry\Desktop\Projects\C\CPTS_121\Lab4Part2\BonusCalculator.c(46): warning C4716: 'get_bonus': must return a value
-  Lab4Part2.vcxproj -> C:\Users\henry\Desktop\Projects\C\CPTS_121\x64\Debug\Lab4Part2.exe

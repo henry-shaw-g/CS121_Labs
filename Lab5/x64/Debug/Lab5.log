@@ -1,6 +1,0 @@
-﻿  GreatestCommonDivisor.c
-  main_part3.c
-C:\Users\henry\Desktop\Projects\C\CPTS_121\Lab5\main_part3.c(35,14): warning C4087: 'getchar': declared with 'void' parameter list
-C:\Users\henry\Desktop\Projects\C\CPTS_121\Lab5\main_part3.c(41,15): warning C4087: 'getchar': declared with 'void' parameter list
-  Generating Code...
-  Lab5.vcxproj -> C:\Users\henry\Desktop\Projects\C\CPTS_121\x64\Debug\Lab5.exe

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <ProjectGuid>{0EE46869-8E6E-49EC-80FD-BF6DDF751F3C}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <Optimization>Disabled</Optimization>
+    </ClCompile>
+    <Link>
+      <TargetMachine>MachineX86</TargetMachine>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <TargetMachine>MachineX86</TargetMachine>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="lab10\Sentences.c" />
+    <ClCompile Include="lab10\SentencesMain.c" />
+    <ClCompile Include="lab10\TicTacToe.c" />
+    <ClCompile Include="lab10\TicTacToeMain.c" />
+    <ClCompile Include="lab11\PayrollProgram.c" />
+    <ClCompile Include="lab11\PayrollProgramMain.c" />
+    <ClCompile Include="lab12\Maze.c" />
+    <ClCompile Include="lab12\MazeMain.c" />
+    <ClCompile Include="lab12\RecursiveStuff.c" />
+    <ClCompile Include="lab2\main.c" />
+    <ClCompile Include="lab3\gym.c" />
+    <ClCompile Include="lab3\main_part1.c" />
+    <ClCompile Include="lab3\main_part2.c" />
+    <ClCompile Include="lab3\main_part_3.c" />
+    <ClCompile Include="lab3\projectiles.c" />
+    <ClCompile Include="lab4part2\BonusCalculator.c" />
+    <ClCompile Include="lab4part2\main.c" />
+    <ClCompile Include="lab4part3\main.c" />
+    <ClCompile Include="lab4part3\NumberStuff.c" />
+    <ClCompile Include="lab4\CalorieCalculator.c" />
+    <ClCompile Include="lab4\main.c" />
+    <ClCompile Include="lab5\Average.c" />
+    <ClCompile Include="lab5\GreatestCommonDivisor.c" />
+    <ClCompile Include="lab5\main_part1.c" />
+    <ClCompile Include="lab5\main_part2.c" />
+    <ClCompile Include="lab5\main_part3.c" />
+    <ClCompile Include="lab5\main_part4.c" />
+    <ClCompile Include="lab5\MinMax.c" />
+    <ClCompile Include="lab5\TaxBracket.c" />
+    <ClCompile Include="lab6\main_part1.c" />
+    <ClCompile Include="lab6\main_part2.c" />
+    <ClCompile Include="lab6\main_part3.c" />
+    <ClCompile Include="lab6\main_part4.c" />
+    <ClCompile Include="lab6\Part1.c" />
+    <ClCompile Include="lab6\Part2.c" />
+    <ClCompile Include="lab6\Part3.c" />
+    <ClCompile Include="lab6\Part4.c" />
+    <ClCompile Include="lab7\Charges.c" />
+    <ClCompile Include="lab7\main_isp_charges.c" />
+    <ClCompile Include="lab7\main_part_2.c" />
+    <ClCompile Include="lab7\Part2.c" />
+    <ClCompile Include="lab8\main_part_1.c" />
+    <ClCompile Include="lab8\main_part_2.c" />
+    <ClCompile Include="lab8\main_part_3.c" />
+    <ClCompile Include="lab8\Part1.c" />
+    <ClCompile Include="lab8\Part2.c" />
+    <ClCompile Include="lab8\part3.c" />
+    <ClCompile Include="lab9\MainPart1.c" />
+    <ClCompile Include="lab9\MainPart2.c" />
+    <ClCompile Include="lab9\Part1.c" />
+    <ClCompile Include="lab9\Part2.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lab10\Sentences.h" />
+    <ClInclude Include="lab10\TicTacToe.h" />
+    <ClInclude Include="lab11\PayrollProgram.h" />
+    <ClInclude Include="lab12\Maze.h" />
+    <ClInclude Include="lab3\gyms.h" />
+    <ClInclude Include="lab3\projectiles.h" />
+    <ClInclude Include="lab4part2\BonuseCalculator.h" />
+    <ClInclude Include="lab4part3\NumberStuff.h" />
+    <ClInclude Include="lab4\CalorieCalculator.h" />
+    <ClInclude Include="lab5\Average.h" />
+    <ClInclude Include="lab5\GreatestCommonDivisor.h" />
+    <ClInclude Include="lab5\MaxMin.h" />
+    <ClInclude Include="lab5\TaxBracket.h" />
+    <ClInclude Include="lab6\Part1.h" />
+    <ClInclude Include="lab6\Part2.h" />
+    <ClInclude Include="lab6\Part3.h" />
+    <ClInclude Include="lab6\Part4.h" />
+    <ClInclude Include="lab7\Charges.h" />
+    <ClInclude Include="lab7\Part2.h" />
+    <ClInclude Include="lab8\Part1.h" />
+    <ClInclude Include="lab8\Part2.h" />
+    <ClInclude Include="lab8\part3.h" />
+    <ClInclude Include="lab9\Part1.h" />
+    <ClInclude Include="lab9\Part2.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

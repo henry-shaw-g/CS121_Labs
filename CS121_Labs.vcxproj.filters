@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="lab10\Sentences.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab10\SentencesMain.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab10\TicTacToe.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab10\TicTacToeMain.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab11\PayrollProgram.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab11\PayrollProgramMain.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab12\Maze.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab12\MazeMain.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab12\RecursiveStuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab2\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab3\gym.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab3\main_part1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab3\main_part2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab3\main_part_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab3\projectiles.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab4\CalorieCalculator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab4\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab4part2\BonusCalculator.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab4part2\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab4part3\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab4part3\NumberStuff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab5\Average.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab5\GreatestCommonDivisor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab5\main_part1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab5\main_part2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab5\main_part3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab5\main_part4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab5\MinMax.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab5\TaxBracket.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab6\main_part1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab6\main_part2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab6\main_part3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab6\main_part4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab6\Part1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab6\Part2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab6\Part3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab6\Part4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab7\Charges.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab7\main_isp_charges.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab7\main_part_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab7\Part2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab8\main_part_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab8\main_part_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab8\main_part_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab8\Part1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab8\Part2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab8\part3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab9\MainPart1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab9\MainPart2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab9\Part1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="lab9\Part2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lab10\Sentences.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab10\TicTacToe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab11\PayrollProgram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab12\Maze.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab3\gyms.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab3\projectiles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab4\CalorieCalculator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab4part2\BonuseCalculator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab4part3\NumberStuff.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab5\Average.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab5\GreatestCommonDivisor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab5\MaxMin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab5\TaxBracket.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab6\Part1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab6\Part2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab6\Part3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab6\Part4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab7\Charges.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab7\Part2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab8\Part1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab8\Part2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab8\part3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab9\Part1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lab9\Part2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
