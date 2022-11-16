@@ -1,0 +1,250 @@
+Year: 1984  Revenue: 203.265 million
+
+Year: 1985  Revenue: 217.697 million
+
+Year: 1986  Revenue: 233.153 million
+
+Year: 1987  Revenue: 249.707 million
+
+Year: 1988  Revenue: 267.436 million
+
+Year: 1989  Revenue: 286.424 million
+
+Year: 1990  Revenue: 306.760 million
+
+Year: 1991  Revenue: 328.540 million
+
+Year: 1992  Revenue: 351.867 million
+
+Year: 1993  Revenue: 376.849 million
+
+Year: 1994  Revenue: 403.606 million
+
+Year: 1995  Revenue: 432.262 million
+
+Year: 1996  Revenue: 462.952 million
+
+Year: 1997  Revenue: 495.822 million
+
+Year: 1998  Revenue: 531.025 million
+
+Year: 1999  Revenue: 568.728 million
+
+Year: 2000  Revenue: 609.108 million
+
+Year: 2001  Revenue: 652.354 million
+
+Year: 2002  Revenue: 698.672 million
+
+Year: 2003  Revenue: 748.277 million
+
+Year: 2004  Revenue: 801.405 million
+
+Year: 2005  Revenue: 858.305 million
+
+Year: 2006  Revenue: 919.244 million
+
+Year: 2007  Revenue: 984.511 million
+
+Year: 2008  Revenue: 1054.411 million
+
+Year: 2009  Revenue: 1129.274 million
+
+Year: 2010  Revenue: 1209.453 million
+
+Year: 2011  Revenue: 1295.324 million
+
+Year: 2012  Revenue: 1387.292 million
+
+Year: 2013  Revenue: 1485.789 million
+
+Year: 2014  Revenue: 1591.280 million
+
+Year: 2015  Revenue: 1704.261 million
+
+Year: 2016  Revenue: 1825.264 million
+
+Year: 2017  Revenue: 1954.858 million
+
+Year: 2018  Revenue: 2093.653 million
+
+Year: 2019  Revenue: 2242.302 million
+
+Year: 2020  Revenue: 2401.505 million
+
+Year: 2021  Revenue: 2572.012 million
+
+Year: 2022  Revenue: 2754.625 million
+
+Year: 2023  Revenue: 2950.203 million
+
+Year: 2024  Revenue: 3159.668 million
+
+Year: 2025  Revenue: 3384.004 million
+
+Year: 2026  Revenue: 3624.269 million
+
+Year: 2027  Revenue: 3881.592 million
+
+Year: 2028  Revenue: 4157.185 million
+
+Year: 2029  Revenue: 4452.345 million
+
+Year: 2030  Revenue: 4768.461 million
+
+Year: 2031  Revenue: 5107.022 million
+
+Year: 2032  Revenue: 5469.621 million
+
+Year: 2033  Revenue: 5857.964 million
+
+Year: 2034  Revenue: 6273.879 million
+
+Year: 2035  Revenue: 6719.325 million
+
+Year: 2036  Revenue: 7196.397 million
+
+Year: 2037  Revenue: 7707.341 million
+
+Year: 2038  Revenue: 8254.562 million
+
+Year: 2039  Revenue: 8840.636 million
+
+Year: 2040  Revenue: 9468.321 million
+
+Year: 2041  Revenue: 10140.572 million
+
+Year: 2042  Revenue: 10860.552 million
+
+Year: 2043  Revenue: 11631.652 million
+
+Year: 2044  Revenue: 12457.499 million
+
+Year: 2045  Revenue: 13341.981 million
+
+Year: 2046  Revenue: 14289.262 million
+
+Year: 2047  Revenue: 15303.799 million
+
+Year: 2048  Revenue: 16390.369 million
+
+Year: 2049  Revenue: 17554.085 million
+
+Year: 2050  Revenue: 18800.426 million
+
+Year: 2051  Revenue: 20135.256 million
+
+Year: 2052  Revenue: 21564.859 million
+
+Year: 2053  Revenue: 23095.964 million
+
+Year: 2054  Revenue: 24735.777 million
+
+Year: 2055  Revenue: 26492.018 million
+
+Year: 2056  Revenue: 28372.951 million
+
+Year: 2057  Revenue: 30387.430 million
+
+Year: 2058  Revenue: 32544.938 million
+
+Year: 2059  Revenue: 34855.628 million
+
+Year: 2060  Revenue: 37330.378 million
+
+Year: 2061  Revenue: 39980.835 million
+
+Year: 2062  Revenue: 42819.474 million
+
+Year: 2063  Revenue: 45859.657 million
+
+Year: 2064  Revenue: 49115.692 million
+
+Year: 2065  Revenue: 52602.907 million
+
+Year: 2066  Revenue: 56337.713 million
+
+Year: 2067  Revenue: 60337.691 million
+
+Year: 2068  Revenue: 64621.667 million
+
+Year: 2069  Revenue: 69209.805 million
+
+Year: 2070  Revenue: 74123.701 million
+
+Year: 2071  Revenue: 79386.484 million
+
+Year: 2072  Revenue: 85022.924 million
+
+Year: 2073  Revenue: 91059.552 million
+
+Year: 2074  Revenue: 97524.780 million
+
+Year: 2075  Revenue: 104449.039 million
+
+Year: 2076  Revenue: 111864.921 million
+
+Year: 2077  Revenue: 119807.331 million
+
+Year: 2078  Revenue: 128313.651 million
+
+Year: 2079  Revenue: 137423.920 million
+
+Year: 2080  Revenue: 147181.019 million
+
+Year: 2081  Revenue: 157630.871 million
+
+Year: 2082  Revenue: 168822.663 million
+
+Year: 2083  Revenue: 180809.072 million
+
+Year: 2084  Revenue: 193646.516 million
+
+Year: 2085  Revenue: 207395.419 million
+
+Year: 2086  Revenue: 222120.493 million
+
+Year: 2087  Revenue: 237891.048 million
+
+Year: 2088  Revenue: 254781.313 million
+
+Year: 2089  Revenue: 272870.786 million
+
+Year: 2090  Revenue: 292244.612 million
+
+Year: 2091  Revenue: 312993.979 million
+
+Year: 2092  Revenue: 335216.552 million
+
+Year: 2093  Revenue: 359016.927 million
+
+Year: 2094  Revenue: 384507.129 million
+
+Year: 2095  Revenue: 411807.135 million
+
+Year: 2096  Revenue: 441045.441 million
+
+Year: 2097  Revenue: 472359.668 million
+
+Year: 2098  Revenue: 505897.204 million
+
+Year: 2099  Revenue: 541815.906 million
+
+Year: 2100  Revenue: 580284.835 million
+
+Year: 2101  Revenue: 621485.058 million
+
+Year: 2102  Revenue: 665610.497 million
+
+Year: 2103  Revenue: 712868.842 million
+
+Year: 2104  Revenue: 763482.530 million
+
+Year: 2105  Revenue: 817689.790 million
+
+Year: 2106  Revenue: 875745.765 million
+
+Year: 2107  Revenue: 937923.714 million
+
+Year: 2108  Revenue: 1004516.298 million
+

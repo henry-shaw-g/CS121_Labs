@@ -1,0 +1,5 @@
+﻿  Part2.c
+C:\Users\henry\Desktop\Projects\C\CPTS_121\Lab7\Part2.c(11,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  main_part_2.c
+  Generating Code...
+  Lab7.vcxproj -> C:\Users\henry\Desktop\Projects\C\CPTS_121\x64\Debug\Lab7.exe

@@ -1,0 +1,12 @@
+1 1
+
+Customer: 58925, Total charge: 7.990, Avg. hourly charge: 1.530
+
+Customer: 43892, Total charge: 47.980, Avg. hourly charge: 2.380
+
+Customer: 23895, Total charge: 31.070, Avg. hourly charge: 2.670
+
+Customer: 48920, Total charge: 7.990, Avg. hourly charge: 6.140
+
+Customer: 48329, Total charge: 7.990, Avg. hourly charge: 0.940
+
