@@ -1,7 +1,9 @@
 #define _CRT_SECURE_NO_WARNINGS 
 
 #include <stdio.h>
+#include <windows.h>
 
+#define ANIMATE_TOWERS_HANOI 1
 
 // function signatures
 // dont feed me negatives
@@ -42,6 +44,8 @@ int main (){
 
 	print_towers(towers);
 	puts("\nSolving.");
+	system("Pause");
+
 	solve_towers(towers, 0, 1, 2, 3);
 	//move_top(towers, 0, 1);
 	print_towers(towers);
@@ -94,18 +98,22 @@ void move_top(int towers[][3], int s, int t) {
 	towers[row][t] = disc;
 }
 
+// only solves for 3 posts, for now >:), precond: 0 <= n <= 9
 void solve_towers(int towers[][3], int s, int t, int a, int n) {
 
-	if (n == 1) {
-		// if n = 1, just move the top disc from source post to target post
-		move_top(towers, s, t);
-	}
-	else {
+	// implicit base case of n == 0 (do nothing)
+	if (n > 0) {
 		// move n - 1 discs from the source post to the aux post
-		solve_towers(towers, s, t, a, n - 1);
+		solve_towers(towers, s, a, t, n - 1);
 
 		// move the current top disc on the source post (the original n disc) to the target post
 		move_top(towers, s, t);
+
+#if ANIMATE_TOWERS_HANOI
+		system("cls");
+		print_towers(towers);
+		Sleep(400);
+#endif
 
 		// move n - 1 discs from the aux post to the target post
 		solve_towers(towers, a, t, s, n - 1);
