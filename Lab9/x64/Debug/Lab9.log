@@ -1,0 +1,7 @@
+﻿  Part2.c
+C:\Users\henry\Desktop\Projects\C\CPTS_121\Lab9\Part2.c(6,46): warning C4090: 'function': different 'const' qualifiers
+C:\Users\henry\Desktop\Projects\C\CPTS_121\Lab9\Part2.c(18,38): warning C4090: 'function': different 'const' qualifiers
+C:\Users\henry\Desktop\Projects\C\CPTS_121\Lab9\Part2.c(30,28): warning C4090: 'function': different 'const' qualifiers
+C:\Users\henry\Desktop\Projects\C\CPTS_121\Lab9\Part2.c(31,28): warning C4090: 'function': different 'const' qualifiers
+C:\Users\henry\Desktop\Projects\C\CPTS_121\Lab9\Part2.c(48): warning C4715: 'my_strcmp': not all control paths return a value
+  Lab9.vcxproj -> C:\Users\henry\Desktop\Projects\C\CPTS_121\x64\Debug\Lab9.exe
