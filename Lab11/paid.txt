@@ -1,0 +1,4 @@
+total: 4547.050000
+average payment: 1136.762500
+Minimum payment: 597.187500
+Maximum payment: 1986.400000
